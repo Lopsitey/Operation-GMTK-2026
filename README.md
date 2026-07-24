@@ -1,2 +1,2 @@
-# Operation-GMTK-2026
-This game is about inflitrating a secure location to disarm a bomb. As the clock counts down, command your team: navigate the map and evade enemies to extract the hostages. Time is limited - will you be the one to save them?
+# Major-Tomcat-GMTK-2026
+This is a game about launching a rocket into space. You must keep the cats happy so they don't destroy the ship before time runs out.
